@@ -68,8 +68,14 @@ I specialize in:
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GT-Raph&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GT-Raph/GT-Raph/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GT-Raph/GT-Raph/output/snake-light.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/GT-Raph/GT-Raph/output/snake-dark.svg" alt="Contribution graph for GT-Raph: a snake eats through the past year of commits" />
+  </picture>
 </p>
+
+<p align="center"><sub>Generated from my GitHub activity and refreshed every 12 hours</sub></p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/GT-Raph">GT-Raph</a></i></p>
